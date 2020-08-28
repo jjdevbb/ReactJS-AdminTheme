@@ -106,3 +106,8 @@ After you've finished writing a component and testing it out, you can include it
 
 
 ##### If you have any further queries that you may have on how to contribute, or you have just general questions about how to use the components in your app - feel free to shoot an email. I'll help you out! :smile_cat:
+
+
+## License
+
+DevBB
